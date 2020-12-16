@@ -2,6 +2,7 @@ theme: jekyll-theme-slate
 title: Welcome to kosibamarcin's homepage!
 description: This is my first Github Page!
 
+template: 
  ## My Projects
  ### Shahu
  Shahu is a state of the art chess simulator. It allows players to dive into incredible world of pawns, farsighted tactics and time management. 
